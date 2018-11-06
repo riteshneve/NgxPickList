@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "NgxPickList": [
+        "dist/ngx-pick-list"
+      ],
+      "NgxPickList/*": [
+        "dist/ngx-pick-list/*"
+      ]
+    }
   }
 }
